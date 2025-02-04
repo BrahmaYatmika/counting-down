@@ -1,5 +1,5 @@
 # counting-down
 
-This will be removed on March 9, 2025
+This will be delete on March 9, 2025
 
 [uhh...](https://brahmayatmika.github.io/counting-down/)
